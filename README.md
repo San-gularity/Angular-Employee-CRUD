@@ -11,6 +11,7 @@ This Angular project showcases a comprehensive Employee Management System with C
 ## Screenshots
 
 Employee Management System
+![Employee Management System](./images/screenshot.png)
 
 Click here to view the screenshot in full size
 
